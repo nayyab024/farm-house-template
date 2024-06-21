@@ -57,7 +57,7 @@
                 <i class="mdi mdi-home menu-icon"></i>
             </a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
                 <span class="menu-title">Product management</span>
                 <i class="menu-arrow"></i>
@@ -69,7 +69,7 @@
                     <li class="nav-item"> <a class="nav-link" href="product.php">Manage Product</a></li>
                 </ul>
             </div>
-        </li>
+        </li> -->
 
         <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#companymanagement" aria-expanded="false" aria-controls="general-pages">
