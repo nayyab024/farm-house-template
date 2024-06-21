@@ -62,7 +62,7 @@ if(isset($_POST['login']))
                     <div class="col-lg-4 mx-auto">
                         <div class="auth-form-light text-left p-5">
                             <div class="brand-logo" align="center">
-                                <img class="img-avatar mb-3" src="companyimages/poultrylogo.png" alt="">
+                                <img class="img-avatar mb-3" src="companyimages/farm_logo-removebg-preview.png" alt="">
                             </div>
                             <form role="form" id=""  method="post" enctype="multipart/form-data" class="form-horizontal">  
                                 <div class="form-group mb-3">
